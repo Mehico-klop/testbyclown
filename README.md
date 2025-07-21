@@ -3,4 +3,4 @@
 график `rqt_plot`:
 (только с маштабом маленькая беда)
 
-![График из rqt_plot](foto.png)
+![График из rqt_plot](fotki/foto.png)
